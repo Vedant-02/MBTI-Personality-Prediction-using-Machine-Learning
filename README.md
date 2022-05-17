@@ -8,7 +8,7 @@ The Myers Briggs Type Indicator (MBTI) is a personality type system that divides
 
 ## Methodology
 ### Exploring the Dataset
-The dataset has:
+The [dataset used](https://www.kaggle.com/datasets/datasnaek/mbti-type?select=mbti_1.csv) has:
 - 8675 rows
 - 2 columns
   - type
