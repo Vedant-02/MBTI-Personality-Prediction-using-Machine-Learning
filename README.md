@@ -6,7 +6,8 @@ The Myers Briggs Type Indicator (MBTI) is a personality type system that divides
 <i>(Image source : Wikipedia)</i>
 </p>
 
-## About the Dataset
+## Methodology
+### Exploring the Dataset
 The dataset has:
 - 8675 rows
 - 2 columns
@@ -14,11 +15,7 @@ The dataset has:
   - posts.
 
 The data in column ‘post’ contains 50 recent social media posts for each user. There are 16 unique labels in column ‘type’ with no null
-values, each representing 16 MBTI type indicators.
-## Methodology
-### Exploring the Dataset
-On performing the exploration of the given dataset, I found that there are no NULL values present. There were 16 unique types of
-personalities in the types column and the post column had paragraphs which required some natural language processing in order to
+values, each representing 16 MBTI type indicators. The post column had paragraphs which required some natural language processing in order to
 perform the task of model training.
 
 <p float="left">
